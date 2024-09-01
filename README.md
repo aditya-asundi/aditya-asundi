@@ -7,6 +7,6 @@ I'm Aditya, studying at the Vellore Institute of Technology.
 - 🧪 Deeply passionate about math and science as well
 
 ## Contact me: <br>
-Mail: asundiaditya@gmail.com
+Mail: <b> asundiaditya@gmail.com </b> <br>
 Discord: AdityaAsundi#6589 <br>
 Cheers 👋
