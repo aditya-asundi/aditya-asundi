@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm Aditya, studying in 12th Grade.
+I'm Aditya, studying at the Vellore Institute of Technology.
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m learning JavaScript
-- 🧪 ex-JEEtard
+- 🧪 Deeply passionate about math and science as well
 
 ## Contact me: <br>
-Instagram: [aditya._.6307](https://www.instagram.com/aditya._.6307/) <br>
-Twitter: [@asundiaditya](https://twitter.com/asundiaditya) <br>
+Mail: asundiaditya@gmail.com
 Discord: AdityaAsundi#6589 <br>
 Cheers 👋
